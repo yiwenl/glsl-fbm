@@ -1,0 +1,24 @@
+{
+  "name": "glsl-fbm",
+  "version": "1.0.0",
+  "description": "Fractional Brownian Motion in GLSL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiwenl/glsl-fbm.git"
+  },
+  "keywords": [
+    "glsl",
+    "fbm",
+    "Fractional Brownian Motion"
+  ],
+  "author": "Yi-Wen LIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yiwenl/glsl-fbm/issues"
+  },
+  "homepage": "https://github.com/yiwenl/glsl-fbm#readme"
+}
